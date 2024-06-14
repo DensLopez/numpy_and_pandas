@@ -24,6 +24,8 @@ Este repositorio contiene archivos "ipynb" y "HTML" con los códigos desarrollad
 
 [**Pandas**](https://pandas.pydata.org/docs/index.html) es una biblioteca del lenguaje de programación Python, dedicada por completo a la Data Science. Creado en 1991, Python es el lenguaje de programación más popular para el análisis de datos y el Machine Learning. 
 
+<br />
+
 ### **¿Cómo funciona Pandas?**
 
 Pandas trabaja sobre "DataFrames": tablas de datos bidimensionales, donde cada columna contiene los valores de una variable y cada fila contiene un conjunto de valores de cada columna. Los datos almacenados en un DataFrame pueden ser números o caracteres.
@@ -69,6 +71,6 @@ La ventaja de Numpy frente a las listas predefinidas en Python es que el procesa
 - Pivot y melt.
 - Apply.
 
-<h4 align="center">Extra</h4>
+<h2 align="center">Extra</h2>
 
 Hay un archivo extra llamado "anime_analysis.ipynb" en el cuál se aplican conocimientos y temas vistos durante el curso.
